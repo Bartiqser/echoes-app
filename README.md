@@ -23,7 +23,7 @@ Echoes is a music-sharing app designed for artists, producers, and music enthusi
 - **Firebase Services**:
   - **Firebase Authentication**: Secure user login and registration.
   - **Firebase Firestore**: Real-time NoSQL database for storing user data, tracks, likes, and comments.
-  - **Firebase Storage**: Cloud storage for uploading and managing audio files.
+  - **Firebase Storage**: Storage for uploading and managing audio files.
 - **Figma**: For designing the app’s user interface.
 
 ---
@@ -61,8 +61,6 @@ Follow these steps to set up the project:
 
 ## App Architecture
 
-The app uses the **Model-View-Controller (MVC)** architecture to ensure clean separation of concerns:
-
 ### Firestore Collections
 1. **Users Collection**
    Stores user details such as username, email, and profile picture.
@@ -75,12 +73,5 @@ The app uses the **Model-View-Controller (MVC)** architecture to ensure clean se
 
 4. **Likes Collection**
    Tracks which users liked specific tracks.
-
----
-
-## Future Enhancements
-
-- Implement filters for browsing tracks by genre or popularity.
-- Add a user profile page to showcase individual uploads.
 
 ---
