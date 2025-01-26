@@ -80,18 +80,7 @@ The app uses the **Model-View-Controller (MVC)** architecture to ensure clean se
 
 ## Future Enhancements
 
-- Add push notifications for new comments or likes.
 - Implement filters for browsing tracks by genre or popularity.
 - Add a user profile page to showcase individual uploads.
 
 ---
-
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
