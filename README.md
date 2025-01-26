@@ -34,7 +34,7 @@ Follow these steps to set up the project:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/echoes.git
+   git clone https://github.com/Bartiqser/echoes.git
    cd echoes
    ```
 
